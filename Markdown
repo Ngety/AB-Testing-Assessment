@@ -1,4 +1,1 @@
-The goal of this AB Test assessment is to analyze data from a game where users can buy
-tokens to keep playing. The game has three different versions and we want to determine if
-there are any significant differences among the versions in terms of daily total revenue, user
-behaviour, and retention rates. 
+
